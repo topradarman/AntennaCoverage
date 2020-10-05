@@ -1,0 +1,12 @@
+D:\vscode\Antenna Coverage\Antenna Coverage\Antenna Coverage\bin\Debug\Antenna Coverage.exe.config
+D:\vscode\Antenna Coverage\Antenna Coverage\Antenna Coverage\bin\Debug\Antenna Coverage.exe
+D:\vscode\Antenna Coverage\Antenna Coverage\Antenna Coverage\bin\Debug\Antenna Coverage.pdb
+D:\vscode\Antenna Coverage\Antenna Coverage\Antenna Coverage\bin\Debug\Antenna Coverage.xml
+D:\vscode\Antenna Coverage\Antenna Coverage\Antenna Coverage\obj\Debug\Antenna Coverage.vbprojAssemblyReference.cache
+D:\vscode\Antenna Coverage\Antenna Coverage\Antenna Coverage\obj\Debug\Antenna_Coverage.Form1.resources
+D:\vscode\Antenna Coverage\Antenna Coverage\Antenna Coverage\obj\Debug\Antenna_Coverage.Resources.resources
+D:\vscode\Antenna Coverage\Antenna Coverage\Antenna Coverage\obj\Debug\Antenna Coverage.vbproj.GenerateResource.cache
+D:\vscode\Antenna Coverage\Antenna Coverage\Antenna Coverage\obj\Debug\Antenna Coverage.vbproj.CoreCompileInputs.cache
+D:\vscode\Antenna Coverage\Antenna Coverage\Antenna Coverage\obj\Debug\Antenna Coverage.exe
+D:\vscode\Antenna Coverage\Antenna Coverage\Antenna Coverage\obj\Debug\Antenna Coverage.xml
+D:\vscode\Antenna Coverage\Antenna Coverage\Antenna Coverage\obj\Debug\Antenna Coverage.pdb
